@@ -1,0 +1,29 @@
+# Ignore Python environment files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+*.env
+
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore logs
+logs/
+*.log
+*.out
+*.err
+
+# Ignore compiled output
+dist/
+build/
