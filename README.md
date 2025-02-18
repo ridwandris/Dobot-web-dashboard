@@ -4,7 +4,8 @@ This project is a real-time web-based interface for controlling the DOBOT MG400 
 
 ## Features
 ✅ Real-time LiDAR visualization  
-✅ Manual control of DOBOT MG400 (Optional) 
+✅ Manual control of DOBOT MG400 (Optional)
+
 ✅ Safety alerts for obstacle detection  
 ✅ WebSocket-based real-time updates  
 
